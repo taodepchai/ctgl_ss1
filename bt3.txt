@@ -1,0 +1,19 @@
+ 1. Lưu trữ danh sách sinh viên theo thứ tự nhập vào  
+- Cấu trúc: Danh sách liên kết (LinkedList)  
+- Lý do: Thêm/xóa nhanh ở cuối danh sách, linh hoạt hơn mảng.  
+
+ 2. Tìm kiếm nhanh tên sản phẩm trong danh sách lớn  
+- Cấu trúc: Bảng băm (Hash Table)  
+- Lý do: Tìm kiếm trung bình O(1), phù hợp cho danh sách lớn.  
+
+ 3. Quản lý task công việc theo thứ tự ưu tiên  
+- Cấu trúc: Hàng đợi ưu tiên (Priority Queue)  
+- Lý do: Sắp xếp và xử lý theo mức ưu tiên, hiệu quả với Heap (O(log n)).  
+
+ 4. Lưu trữ dữ liệu phân cấp như thư mục máy tính  
+- Cấu trúc: Cây (Tree)  
+- Lý do: Biểu diễn hệ thống phân cấp, dễ duyệt và tìm kiếm.  
+
+ 5. Tìm đường đi ngắn nhất giữa 2 điểm trên bản đồ  
+- Cấu trúc: Đồ thị (Graph)  
+- Lý do: Dùng các thuật toán như Dijkstra hoặc A* trên đồ thị có trọng số.  

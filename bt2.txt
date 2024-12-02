@@ -1,0 +1,20 @@
+
+Loại cấu trúc dữ liệu:  Đặc điểm chính:                                                                   Ứng dụng phổ biến:
+Mảng (Array):           - Cấu trúc tĩnh, các phần tử được lưu trữ liên tiếp trong bộ nhớ.                - Quản lý dữ liệu dạng danh sách cố định.
+                        - Truy cập nhanh qua chỉ số.                                                     - Áp dụng trong các thuật toán tìm kiếm, sắp xếp.
+
+Danh sách liên kết      - Cấu trúc động, các phần tử (node) chứa giá trị và con trỏ liên kết đến         - Triển khai các hàng đợi, ngăn xếp.
+(LinkedList):           phần tử tiếp theo.                                                              - Sử dụng trong hệ thống bộ nhớ linh hoạt.
+                        - Linh hoạt khi thay đổi kích thước.
+
+Ngăn xếp (Stack):       - Cấu trúc LIFO (Last In, First Out).                                            - Xử lý chuỗi (hoán vị, đảo ngược chuỗi).
+                        - Chỉ thao tác trên đỉnh ngăn xếp.                                               - Áp dụng trong biểu thức toán học, duyệt cây.
+
+Hàng đợi (Queue):       - Cấu trúc FIFO (First In, First Out).                                           - Hệ thống xử lý đa nhiệm, quản lý hàng đợi máy in.
+                        - Phần tử thêm vào đuôi, xóa ở đầu.                                              - Thuật toán duyệt đồ thị (BFS).
+
+Cây (Tree):             - Cấu trúc phân cấp với nút gốc và các nút con.                                  - Lưu trữ dữ liệu phân cấp như cây thư mục, cây DOM.
+                        - Có nhiều loại như cây nhị phân, cây tìm kiếm.                                  - Áp dụng trong thuật toán tìm kiếm (binary search).
+
+Đồ thị (Graph):         - Mô hình gồm tập hợp các đỉnh (node) và cạnh (edge).                            - Mô phỏng mạng xã hội, hệ thống giao thông.
+                        - Có thể là đồ thị có hướng hoặc vô hướng.                                       - Duyệt đồ thị trong các thuật toán DFS, BFS.

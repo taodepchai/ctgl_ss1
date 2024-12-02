@@ -1,0 +1,5 @@
+
+elip = bắt đầu, kết thúc    
+chữ nhật = thực hiện, xử lí
+thoi = điều kiện
+mũi tên = điều hướng
